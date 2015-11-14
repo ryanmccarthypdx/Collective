@@ -1,0 +1,14 @@
+development:
+  adapter: postgresql
+  database: Collective_development
+  template: template0
+
+test:
+  adapter: postgresql
+  database: Collective_test
+  template: template0
+
+production:
+  adapter: postgresql
+  database: Collective_production
+  template: template0

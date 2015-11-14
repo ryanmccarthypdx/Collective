@@ -7,3 +7,5 @@ gem 'pg'
 gem 'rake'
 gem 'pry-byebug'
 gem 'dotenv'
+
+gem 'rspec'
